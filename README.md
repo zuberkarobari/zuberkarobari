@@ -4,7 +4,7 @@
   ### Senior Backend Engineer | Distributed Systems Architect | Cloud Specialist
 
   <p align="center">
-    Building high-throughput, fault-tolerant microservices and cloud-native event-processing pipelines. Proven track record of owning end-to-end backend systems in the fintech and gig-economy domains at production scale.
+    Building high-throughput, fault-tolerant microservices and cloud-native event-processing pipelines. Proven track record of owning end-to-end backend systems in the fintech, gig-economy, and industrial domains at production scale.
   </p>
 
   <p align="center">
@@ -71,22 +71,6 @@ As a Senior Engineer, I focus heavily on High-Level (HLD) and Low-Level Design (
 </details>
 
 <details>
-  <summary><b>👷‍♂️ GetWork - Gig Economy Platform & Wallet System</b></summary>
-  <br/>
-  <blockquote>
-    <p><b>Architecture:</b> Two-sided Marketplace & Distributed Wallet Engine</p>
-    <p><b>Tech Stack:</b> Spring Boot 3.2, Firebase Cloud Functions, React Native 0.81, PostgreSQL / Firestore</p>
-    <h4>Domain Expertise & Low-Level Design (LLD):</h4>
-    <ul>
-      <li><b>Atomic Financial Ledger:</b> Engineered a multi-tier wallet economics system utilizing immutable, append-only ledger transactions for 10% platform commission auto-deductions.</li>
-      <li><b>Geospatial Intelligence:</b> Implemented Haversine formula-based worker proximity matching and utilized Geohash (Precision 6) for caching Google Maps API route/distance results.</li>
-      <li><b>Complex State Machines:</b> Architected a 6-stage bidirectional state machine for the job lifecycle (Open ➔ Applied ➔ Assigned ➔ In-Progress ➔ Completion_Requested ➔ Completed).</li>
-      <li><b>Dynamic Pricing Algorithms:</b> Built real-time budget calculators accounting for city-specific base pay, travel allowances, and dynamic worker counts.</li>
-    </ul>
-  </blockquote>
-</details>
-
-<details>
   <summary><b>💳 VISA Real-Time Settlement Engine</b></summary>
   <br/>
   <blockquote>
@@ -97,6 +81,37 @@ As a Senior Engineer, I focus heavily on High-Level (HLD) and Low-Level Design (
       <li><b>High-Volume Reconciliation:</b> Owned reconciliation modules processing 50K+ daily financial settlements, achieving ~99.99% transaction accuracy.</li>
       <li><b>Kafka Topic Partitioning:</b> Scaled event pipelines to handle 10K+ events/hour with consumer group partitioning and exactly-once delivery semantics to prevent duplicate customer notifications.</li>
       <li><b>Parallel Stream Processing:</b> Re-engineered legacy batch processors using parallel streams and optimized connection pools, reducing end-of-day SLA execution time from ~2 hours to ~15 minutes.</li>
+    </ul>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>👷‍♂️ GetWork - Hyperlocal Gig Economy Platform</b></summary>
+  <br/>
+  <blockquote>
+    <p><b>Architecture:</b> Two-sided Marketplace & Distributed Wallet Engine</p>
+    <p><b>Tech Stack:</b> Spring Boot 3.2, Firebase Cloud Functions, React Native 0.81, PostgreSQL / Firestore</p>
+    <h4>Domain Expertise & Low-Level Design (LLD):</h4>
+    <ul>
+      <li><b>Gig-Oriented Task Management:</b> Engineered a 6-stage bidirectional state machine for the task lifecycle (Open ➔ Applied ➔ Assigned ➔ In-Progress ➔ Completion_Requested ➔ Completed) allowing users to easily "Get Work Done".</li>
+      <li><b>Atomic Financial Ledger:</b> Designed a multi-tier wallet economics system utilizing immutable, append-only ledger transactions for 10% platform commission auto-deductions.</li>
+      <li><b>Geospatial Intelligence:</b> Implemented Haversine formula-based worker proximity matching and utilized Geohash (Precision 6) for caching Google Maps API route/distance results.</li>
+      <li><b>Dynamic Pricing Algorithms:</b> Built real-time budget calculators accounting for city-specific base pay, travel allowances, and dynamic worker counts.</li>
+    </ul>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>🪨 Karobari Stone Management System</b></summary>
+  <br/>
+  <blockquote>
+    <p><b>Architecture:</b> Industrial Logistics Suite & Digital Ledger</p>
+    <p><b>Tech Stack:</b> Full-Stack (React, Backend Services)</p>
+    <h4>Domain Expertise & Low-Level Design (LLD):</h4>
+    <ul>
+      <li><b>Digital Ledger Transformation:</b> Digitized complex physical ledger systems with a UI that feels familiar but offers the power of industrial automation.</li>
+      <li><b>Wallet-Based Labor System:</b> Architected a prepaid credit wallet system for workers instead of direct employer billing, auto-debiting job values securely.</li>
+      <li><b>Automated Logistics Math:</b> Engineered specific calculation algorithms for stone production outputs (e.g., strictly automating item counts `nag * 3` to determine total footage) and tracking truck expenses.</li>
     </ul>
   </blockquote>
 </details>
@@ -122,10 +137,10 @@ As a Senior Engineer, I focus heavily on High-Level (HLD) and Low-Level Design (
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuberkarobari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Zuber's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zuberkarobari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Zuber's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuberkarobari&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuberkarobari&theme=radical&hide_border=true&background=0D1117&count_private=true" alt="GitHub Streak" />
 </p>
 
 ---
