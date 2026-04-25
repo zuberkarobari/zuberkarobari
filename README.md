@@ -52,9 +52,9 @@
 
 ## 🏗️ Featured Architecture & System Designs
 
-As a Senior Engineer, I focus heavily on High-Level (HLD) and Low-Level Design (LLD). *Click on any project below to expand the architectural details and domain expertise.*
+As a Senior Engineer, I focus heavily on High-Level (HLD) and Low-Level Design (LLD). 
 
-<details>
+<details open>
   <summary><b>🏦 J.P. Morgan UPI Payment System v2</b></summary>
   <br/>
   <blockquote>
@@ -70,7 +70,7 @@ As a Senior Engineer, I focus heavily on High-Level (HLD) and Low-Level Design (
   </blockquote>
 </details>
 
-<details>
+<details open>
   <summary><b>💳 VISA Real-Time Settlement Engine</b></summary>
   <br/>
   <blockquote>
@@ -85,7 +85,7 @@ As a Senior Engineer, I focus heavily on High-Level (HLD) and Low-Level Design (
   </blockquote>
 </details>
 
-<details>
+<details open>
   <summary><b>👷‍♂️ GetWork - Hyperlocal Gig Economy Platform</b></summary>
   <br/>
   <blockquote>
@@ -101,7 +101,7 @@ As a Senior Engineer, I focus heavily on High-Level (HLD) and Low-Level Design (
   </blockquote>
 </details>
 
-<details>
+<details open>
   <summary><b>🪨 Karobari Stone Management System</b></summary>
   <br/>
   <blockquote>
@@ -116,7 +116,7 @@ As a Senior Engineer, I focus heavily on High-Level (HLD) and Low-Level Design (
   </blockquote>
 </details>
 
-<details>
+<details open>
   <summary><b>🤖 TrackR v2 - AI Finance App</b></summary>
   <br/>
   <blockquote>
